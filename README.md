@@ -13,7 +13,7 @@
 
 The notebooks helps through implementing various algorithms in reinforcement learning. All of the codes are in PyTorch (v0.4) or TensorFlow(v1.7) and Python 3.
 
-* [Dynamic Programming](https://github.com/udacity/deep-reinforcement-learning/tree/master/dynamic-programming): Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
+* [Dynamic Programming](https://github.com/sourcecode369/Deep-RL/tree/master/Dynammic%20Programming): Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
 
    - Frozen Lake - v0
 
