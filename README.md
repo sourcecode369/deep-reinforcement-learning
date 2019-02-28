@@ -15,6 +15,7 @@ The notebooks helps through implementing various algorithms in reinforcement lea
 
 * [Dynamic Programming](https://github.com/udacity/deep-reinforcement-learning/tree/master/dynamic-programming): Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
 
+   - Frozen Lake - v0
 
 ### Labs / Projects
 
