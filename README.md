@@ -11,14 +11,14 @@
 
 ### Tutorials
 
-The notebooks helps through implementing various algorithms in reinforcement learning.  All of the code is in PyTorch (v0.4) and Python 3.
+The notebooks helps through implementing various algorithms in reinforcement learning. All of the codes are in PyTorch (v0.4) or TensorFlow(v1.7) and Python 3.
 
-* [Dynamic Programming](https://github.com/udacity/deep-reinforcement-learning/tree/master/dynamic-programming): Implement Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
+* [Dynamic Programming](https://github.com/udacity/deep-reinforcement-learning/tree/master/dynamic-programming): Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
 
 
 ### Labs / Projects
 
-The labs and projects can be found below.  All of the projects use rich simulation environments from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents). In the [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program, you will receive a review of your project.  These reviews are meant to give you personalized feedback and to tell you what can be improved in your code.
+The labs and projects can be found below.  All of the projects use rich simulation environments from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents). They are btter documented and requires rich of the implemented algorithm to completely understand re-build.
 
 * [The Taxi Problem](https://github.com/udacity/deep-reinforcement-learning/tree/master/lab-taxi): In this lab, you will train a taxi to pick up and drop off passengers.
 * [Navigation](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation): In the first project, you will train an agent to collect yellow bananas while avoiding blue bananas.
@@ -27,7 +27,7 @@ The labs and projects can be found below.  All of the projects use rich simulati
 
 ### Resources
 
-* [Cheatsheet](https://github.com/udacity/deep-reinforcement-learning/blob/master/cheatsheet): You are encouraged to use [this PDF file](https://github.com/udacity/deep-reinforcement-learning/blob/master/cheatsheet/cheatsheet.pdf) to guide your study of reinforcement learning. 
+* [Cheatsheet](https://github.com/udacity/deep-reinforcement-learning/blob/master/cheatsheet): It is encouraged to use [this PDF file](https://github.com/udacity/deep-reinforcement-learning/blob/master/cheatsheet/cheatsheet.pdf) to better understand the reinforcement learning algorithms. 
 
 ## OpenAI Gym Benchmarks
 
@@ -87,8 +87,9 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 ![Kernel][image2]
 
 ## Bibliography
- - This repository contains material related to Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program.
+ - Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program helped me a lot to implement most of these algorithms and clearing the concepts within Deep Reinforcement learning.
  <p align="center"><a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893">
  <img width="503" height="133" src="https://user-images.githubusercontent.com/10624937/42135812-1829637e-7d16-11e8-9aa1-88056f23f51e.png"></a>
  </p>
+  - OpenAI's [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html)<img width="640" height="360" src="https://spinningup.openai.com/en/latest/_images/spinning-up-in-rl.png">
 
