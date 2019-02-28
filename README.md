@@ -18,7 +18,7 @@ The notebooks helps through implementing various algorithms in reinforcement lea
 
 ### Labs / Projects
 
-The labs and projects can be found below.  All of the projects use rich simulation environments from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents). They are btter documented and requires rich of the implemented algorithm to completely understand re-build.
+The labs and projects can be found below.  All of the projects use simulation environments from [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents). They are btter documented and requires good knowledge of the implemented algorithms to completely understand re-build.
 
 
 ### Resources
