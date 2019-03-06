@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-### Tutorials
+### Implementations
 
 The notebooks helps through implementing various algorithms in reinforcement learning. All of the codes are in PyTorch (v0.4) or TensorFlow(v1.7) and Python 3.
 
