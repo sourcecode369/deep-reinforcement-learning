@@ -69,7 +69,13 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 ## Bibliography
  * [Spinning up in Deep RL](https://spinningup.openai.com/en/latest/index.html) an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
  
+ * [Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) that I've comprehensively went throgh.
+ 
  * __David Silver's__ course on [Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ).
+ 
+ * [Siraj Raval Youtube Video Tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+ 
+ * [School of AI - Move 37](https://www.theschool.ai/courses/move-37-course/) by Siraj Raval.
  
  * __UC Berkley and OpenAI's__ [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures).
  
