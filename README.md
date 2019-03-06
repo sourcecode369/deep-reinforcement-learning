@@ -16,6 +16,9 @@ The notebooks helps through implementing various algorithms in reinforcement lea
 * [Dynamic Programming](https://github.com/sourcecode369/Deep-RL/tree/master/Dynammic%20Programming): Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
 
    - Frozen Lake - v0
+* [Monte Carlo](https://github.com/udacity/deep-reinforcement-learning/tree/master/monte-carlo): Implement Monte Carlo methods for prediction and control. 
+
+   - BlackJack-v0
 
 ### Labs / Projects
 
