@@ -19,6 +19,9 @@ The notebooks helps through implementing various algorithms in reinforcement lea
 * [Monte Carlo](https://github.com/sourcecode369/Deep-RL/tree/master/Monte%20Carlo/): Monte Carlo methods for prediction and control. 
 
    - BlackJack-v0
+* [Temporal Difference](https://github.com/sourcecode369/Deep-RL/tree/master/Temporal%20Difference): Temporal Difference Methods such as Q-learning, SARSA and Expected SARSA.
+
+   - CliffWalking - v0
 
 ### Labs / Projects
 
