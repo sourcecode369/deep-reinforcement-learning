@@ -22,6 +22,8 @@ The notebooks helps through implementing various algorithms in reinforcement lea
 * [Temporal Difference](https://github.com/sourcecode369/Deep-RL/tree/master/Temporal%20Difference): Temporal Difference Methods such as Q-learning, SARSA and Expected SARSA.
 
    - CliffWalking - v0
+   
+   - Taxi - v2
 
 ### Labs / Projects
 
