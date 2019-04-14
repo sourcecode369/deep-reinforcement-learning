@@ -3,6 +3,7 @@
 Presenting the “Hello World” of RL, the Grid World!
 
 ![alt_text](https://cdn-images-1.medium.com/max/800/1*XSa5M5BvLbvGLi7b_kCRFQ.png)
+
 The rules are very simple:
 
 You can move only one square per turn
