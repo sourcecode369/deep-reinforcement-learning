@@ -1,4 +1,5 @@
-### The Problem
+## Cliff Walking
+#### The Problem
 
 Presenting the “Hello World” of RL, the Grid World!
 
