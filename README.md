@@ -15,15 +15,27 @@ The notebooks helps through implementing various algorithms in reinforcement lea
 
 * [Dynamic Programming](https://github.com/sourcecode369/Deep-RL/tree/master/Dynammic%20Programming): Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration. 
 
-   - Frozen Lake - v0
+   - `Frozen Lake - v0`
 * [Monte Carlo](https://github.com/sourcecode369/Deep-RL/tree/master/Monte%20Carlo/): Monte Carlo methods for prediction and control. 
 
-   - BlackJack-v0
+   - `BlackJack-v0`
 * [Temporal Difference](https://github.com/sourcecode369/Deep-RL/tree/master/Temporal%20Difference): Temporal Difference Methods such as Q-learning, SARSA and Expected SARSA.
 
-   - CliffWalking - v0
+   - `CliffWalking - v0`
    
-   - Taxi - v2
+   - `Taxi - v2`
+* [Deep Q-Learning](https://github.com/sourcecode369/Deep-Rl/tree/master/): Deep Q-Learning agents which use Fixed Q-Targets and Experience Replay for memory including improvements to Deep Q-Learning with state of the art Double DQN, Prioritized Experience Replay, Dueling DQN and Rainbow on range of various environmnts and using various deep learning libraries.
+   - `CartPole-v1` in TensorFlow.Keras
+   
+   - `MountainCar-v0` in TensorFlow.Keras
+   
+   - `LunarLander-v2` in PyTorch
+   
+   - `Atari Pong` in TensorFlow.Keras
+   
+   - `Atari Breakout` in TensorFlow.Keras
+   
+   - `Self-Driving Car` in PyTorch
 
 ### Labs / Projects
 
