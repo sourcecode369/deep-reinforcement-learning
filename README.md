@@ -24,7 +24,7 @@ The notebooks helps through implementing various algorithms in reinforcement lea
    - `CliffWalking - v0`
    
    - `Taxi - v2`
-* [Deep Q-Learning](https://github.com/sourcecode369/Deep-Rl/tree/master/): Deep Q-Learning agents which use Fixed Q-Targets and Experience Replay for memory including improvements to Deep Q-Learning with state of the art Double DQN, Prioritized Experience Replay, Dueling DQN and Rainbow on range of various environmnts and using various deep learning libraries.
+* [Deep Q-Learning](https://github.com/sourcecode369/Deep-RL/tree/master/DQN): Deep Q-Learning agents which use Fixed Q-Targets and Experience Replay for memory including improvements to Deep Q-Learning with state of the art Double DQN, Prioritized Experience Replay, Dueling DQN and Rainbow on range of various environmnts and using various deep learning libraries.
    - `CartPole-v1` in TensorFlow.Keras
    
    - `MountainCar-v0` in TensorFlow.Keras
