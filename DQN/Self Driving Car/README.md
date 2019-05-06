@@ -40,7 +40,7 @@ Deep Q-Learning is the result of combining Q-Learning with an Artificial Neural 
         
 ## How to Run
   * Activate the conda environment in which your dependencies are installed (optional)
-  * Change your directory using 'cd' on cmd and hover inside the `Self Driving Car` folder 
+  * Change your directory using `cd` on cmd and hover inside the `Self Driving Car` folder 
   * run `python map.py` 
   * enjoy!
 
