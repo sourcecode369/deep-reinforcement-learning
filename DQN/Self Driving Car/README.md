@@ -24,7 +24,7 @@ Deep Q-Learning is the result of combining Q-Learning with an Artificial Neural 
  * #### Install Kivy
     It’s advisable to install Kivy with the development version for each OS. The development version can be found within the installation     instructions, for example: https://kivy.org/docs/installation/installation- osx.html. 
     
-    Using Homebrew with pip¶ 
+     
     You can install Kivy with Homebrew and pip using the following steps: 
     * Install the requirements using homebrew: 
     
