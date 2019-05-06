@@ -1,4 +1,4 @@
-# Self Driving Car in Kivy
+# Self Driving Car using Kivy
  
  This is going to be a modelled version of a car (so it won't be driving on the streets of real cities ;) ) but still - it will learn how to drive itself. And the key word here is **learn**, because the car will not be given any rules on how to operate in the environment before hand - it will have to figure everything out on it's own. And to achieve that we will be using Deep Q-Learning.
 
@@ -37,6 +37,14 @@ Deep Q-Learning is the result of combining Q-Learning with an Artificial Neural 
     * To install the development version, use this in the second step: 
     
         `$ pip install https://github.com/kivy/kivy/archive/master.zip`
+        
+## How to Run
+  * Activate the conda environment in which your dependencies are installed (optional)
+  * Change your directory using 'cd' on cmd and hover inside the `Self Driving Car` folder 
+  * run `python map.py` 
+  * enjoy!
+
+## Results
 
 #### `Before Training`
 ![before_training](https://github.com/sourcecode369/Deep-RL/blob/master/DQN/Self%20Driving%20Car/assets/before_training%20(2).gif)
