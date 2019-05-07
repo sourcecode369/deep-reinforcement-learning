@@ -29,7 +29,7 @@ The notebooks helps through implementing various algorithms in reinforcement lea
    
    - `MountainCar-v0` in TensorFlow.Keras
    
-   - `LunarLander-v2` in PyTorch
+   - `LunarLander-v0` in PyTorch
    
    - `Atari Pong` in TensorFlow.Keras
    
