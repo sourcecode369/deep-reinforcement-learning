@@ -96,7 +96,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
  
  * __UC Berkley and OpenAI's__ [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures).
  
- * Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program helped me getting started and implementing algorithms and clearing the concepts within Deep Reinforcement learning. (__Highly Recommend__)
+ * Udacity's Deep Reinforcement Learning Nanodegree program helped me getting started and implementing algorithms and clearing the concepts within Deep Reinforcement learning. (__Highly Recommend__)
  [![Watch_video](https://i2.wp.com/blog.udacity.com/wp-content/uploads/2018/06/Udacity-Deep-Reinforcement-Learning-Nanodegree-Program.png?resize=640%2C336&ssl=1)](https://www.youtube.com/watch?v=j-evVVlb_-M)
  <p align="center"><a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893">
  <img width="503" height="133" src="https://user-images.githubusercontent.com/10624937/42135812-1829637e-7d16-11e8-9aa1-88056f23f51e.png"></a>
