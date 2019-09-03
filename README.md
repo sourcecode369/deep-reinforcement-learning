@@ -5,7 +5,7 @@
 [image3]: https://spinningup.openai.com/en/latest/_images/spinning-up-in-rl.png "Spinning Up in Deep RL"
 # Deep Reinforcement Learning 
 
->**For the unfamiliar: reinforcement learning (RL) is a machine learning approach for teaching agents how to 
+>For the unfamiliar: **Reinforcement learning (RL) is a machine learning approach for teaching agents how to 
 solve tasks by trial and error. Deep RL refers to the combination of RL with deep learning.**
 
 ![Trained Agents][image1]  
