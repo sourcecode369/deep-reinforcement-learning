@@ -86,7 +86,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 ![Kernel][image2]
 
-## Bibliography
+## Credits
  * [Spinning up in Deep RL](https://spinningup.openai.com/en/latest/index.html) an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
  
  * [Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) that I've comprehensively went throgh.
